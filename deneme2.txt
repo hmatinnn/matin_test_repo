@@ -1,0 +1,1 @@
+test edirem deneme2.txt icinde
