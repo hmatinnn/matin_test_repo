@@ -1,2 +1,1 @@
-martines_spartakus2/*
-
+martines_spartakus2/
