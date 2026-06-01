@@ -1,3 +1,2 @@
-teze_file/
-!martines_spartakus/elebele
+!martines_spartakus/elebele.txt
 
