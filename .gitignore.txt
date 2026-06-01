@@ -1,2 +1,2 @@
-martines_spartakus/*
+martines_spartakus/elebele.txt
 
