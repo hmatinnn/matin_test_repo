@@ -1,1 +1,3 @@
 teze_file/
+!teze_file/elebele.txt
+
