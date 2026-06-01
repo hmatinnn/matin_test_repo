@@ -1,2 +1,4 @@
-C:\Users\Matin Huseynli\Desktop\app\martines_spartakus/elebele
+martines_spartakus/*
+
+
 
